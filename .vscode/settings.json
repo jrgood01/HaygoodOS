@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iso9660.h": "c",
+        "boot_sector": "cpp",
+        "utils.h": "c",
+        "create_fat_boot_disk.h": "c"
+    }
+}
